@@ -7,6 +7,7 @@ Dolly 2.0 is an LLM similar to ChatGPT but open-sourced and trainable. This is a
 ## Prerequisites
 
 - Git
+- Git LFS
 - Python 3.x
 
 ## Instructions
